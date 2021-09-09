@@ -1,4 +1,4 @@
-# Tech News HTML
+# Tequila don vaquero
 ![](./screenshot.png)
 
 # Recomendations
